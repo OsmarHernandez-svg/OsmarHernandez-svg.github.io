@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Pagina 1 </title>
+< style>
+  footert {
+background-color：#022ba2；
+text-align: center;
+padding: 10px 0; position: fixed;
+bottom: 0; width: 100%;
+border-top: 1px solid #ccc;
+}
+</style>
+</head>
+<body>
+<h2 style="color:#075982"> La carrera espacial: rivalidad entre Estados Unidos y la URSS como motor de innovación tecnológica
+</h2>
+<pre>Durante la segunda mitad del siglo XX, la rivalidad entre Estados Unidos y la Unión Soviética se intensificó y se extendió más allá de lo militar y lo político, alcanzando incluso el espacio exterior. Esta competencia, conocida como la carrera espacial, motivó a ambas naciones a lograr hazañas nunca antes vistas en la historia de la humanidad. La Unión Soviética fue la primera en obtener victorias significativas al lanzar el satélite Sputnik en 1957, seguido por el histórico vuelo de Yuri Gagarin, el primer ser humano en orbitar la Tierra, en 1961. Estos eventos encendieron las alarmas en Estados Unidos, que respondió acelerando sus programas espaciales con una determinación renovada.
+
+En respuesta a los logros soviéticos, Estados Unidos lanzó el programa Apollo, cuyo objetivo era llevar a un ser humano a la Luna y traerlo de regreso sano y salvo. Este esfuerzo supuso una inversión multimillonaria en ciencia, tecnología, educación e infraestructura. La carrera espacial se convirtió en un catalizador para la innovación tecnológica, y su punto culminante fue el 20 de julio de 1969, cuando Neil Armstrong pisó la superficie lunar. La competencia entre ambas superpotencias fue, paradójicamente, uno de los mayores impulsores del desarrollo científico del siglo XX, y cambió para siempre la manera en que el ser humano se relaciona con el espacio.
+</pre>
+</body>
+  < footer>
+<p>&copy; 2025 Mi proyecto Osmar Hernandez. Todos los derechos reservados. </p>
+</ footer>
+</html>
