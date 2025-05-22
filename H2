@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Los logros del viaje a la luna</title>
+< style>
+  footert {
+background-color：#f4f4f4；
+text-align: center;
+padding: 10px 0; position: fixed;
+bottom: 0; width: 100%;
+border-top: 1px solid #ccc;
+}
+</style>
+</head>
+<body>
+  <h2 style="color:#075982"> Causas y
+Consecuencias </h2>
+<p>La llegada del hombre a la Luna no fue solo un logro político y tecnológico, sino también un avance científico de enorme valor. Gracias a las misiones del programa Apollo, se recolectaron cientos de kilogramos de rocas lunares que permitieron estudiar la historia geológica del satélite. Además, se instalaron instrumentos que recolectaron datos durante años, ayudando a los científicos a entender mejor la Luna y su interacción con la Tierra. Este conocimiento amplió la comprensión sobre la formación del sistema solar y abrió nuevas preguntas para la exploración espacial futura.
+
+Pero el impacto no fue solamente científico. El alunizaje de 1969 generó una ola de entusiasmo y esperanza en todo el mundo. Fue transmitido en vivo a más de 600 millones de personas, convirtiéndose en uno de los eventos más vistos de la historia. La frase “un pequeño paso para el hombre, un gran salto para la humanidad” simbolizó la capacidad colectiva del ser humano para superar sus límites. Desde entonces, la llegada a la Luna ha influido en la cultura popular, el cine, la literatura y el arte, convirtiéndose en un emblema de lo que es posible cuando se sueña en grande y se trabaja en equipo.
+</p>
+
+
+<br>
+
+
+  </body>
+  < footer>
+<p>&copy; 2025 Mi proyecto Osmar Hernandez. Todos los derechos reservados. </p>
+</ footer>
+</html>
