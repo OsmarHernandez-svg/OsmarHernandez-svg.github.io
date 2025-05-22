@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> El futuro de estas exploraciones </title>
+<style>
+  footert {
+background-color：#f4f4f4；
+text-align: center;
+padding: 10px 0; position: fixed;
+bottom: 0; width: 100%;
+border-top: 1px solid #ccc;
+}
+</style>
+</head>
+<body>
+<h2 style="color:#075982"> Futuras exploraciones </h2>
+  <p>Hoy en día, más de cinco décadas después del primer alunizaje, la Luna vuelve a estar en el centro de los planes espaciales. Misiones como Artemis de la NASA buscan no solo volver a llevar humanos a la superficie lunar, sino también construir una base permanente que permita una presencia sostenida en el satélite. Otros países, como China y Rusia, también desarrollan sus propios programas de exploración, mientras que empresas privadas como SpaceX y Blue Origin se han sumado con objetivos ambiciosos. La Luna es vista ahora como un lugar estratégico, no solo por su valor científico, sino como un posible trampolín hacia Marte y otros cuerpos celestes.
+
+Además, establecer una presencia humana en la Luna implica desarrollar tecnologías vitales como sistemas de soporte vital, generación de energía, reciclaje de recursos y hábitats autosuficientes. Estas innovaciones no solo beneficiarían a las futuras misiones interplanetarias, sino también a la vida en la Tierra, especialmente en contextos donde los recursos son limitados. La exploración lunar moderna no se trata solo de repetir el pasado, sino de construir el futuro: un futuro donde el ser humano se convierta en una especie multiplanetaria, capaz de habitar y adaptarse a nuevos mundos.
+
+
+  </body>
+  < footer>
+<p>&copy; 2025 Mi proyecto Luna Cano. Todos los derechos reservados. </p>
+</ footer>
+</html>
